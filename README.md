@@ -1,6 +1,6 @@
 # Task 3&4 - Login Page and Dashboard
+![image](https://github.com/darshanlahamage/Task-3-4-Zentrade/assets/80032609/a56138a6-307e-43d0-ad2d-cb6b688a23d3)
 
-![image](https://github.com/darshanlahamage/Task-3-4-Zentrade/assets/80032609/1413a771-4d8c-492c-8079-3f6318811a56)
+![image](https://github.com/darshanlahamage/Task-3-4-Zentrade/assets/80032609/6f830f8d-f19a-4dc6-a83e-7da69b0d055e)
 
-![image](https://github.com/darshanlahamage/Task-3-4-Zentrade/assets/80032609/9d34a592-841c-4c19-8627-0596225fae82)
 
